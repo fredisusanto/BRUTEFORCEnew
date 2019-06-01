@@ -1,4 +1,4 @@
-#fredi bengalon
+#fredix
 
 #usr/bin/bash
 clear
